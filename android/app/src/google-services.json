@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "494072850264",
+    "firebase_url": "https://pakan-43c1c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pakan-43c1c",
+    "storage_bucket": "pakan-43c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494072850264:android:9ada807a9c12ad83aba72d",
+        "android_client_info": {
+          "package_name": "com.example.pakan_udang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55Y_ynNxujVE8aKdbJlvskxtrgB89Ht0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
